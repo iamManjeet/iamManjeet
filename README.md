@@ -5,7 +5,7 @@
 
 <!-- Name with Waving Hand GIF -->
 <h1 align="center">
-  <b>Hi, I'm Ayushmaan</b> 
+  <b>Hi, I'm Manjeet Singh</b> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
