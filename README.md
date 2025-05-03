@@ -36,11 +36,11 @@ Hello! I'm Manjeet Singh, a dedicated Software Engineer with a passion for AI, c
 
 ### 🛠️ Skills & Interests
 
-– Full Stack Development
-– AI & Cloud Technologies
-– Hackathon Finalist (SIH & NASA Space Apps)
-– Tech Mentorship & Open Source Contributions
-– Communication, Leadership & Team Collaboration
+- Full Stack Development
+- AI & Cloud Technologies
+- Hackathon Finalist (SIH & NASA Space Apps)
+- Tech Mentorship & Open Source Contributions
+- Communication, Leadership & Team Collaboration
 ---
 ## <b> 🤝 Let's Connect..!</b>
 
@@ -49,19 +49,19 @@ Hello! I'm Manjeet Singh, a dedicated Software Engineer with a passion for AI, c
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/ayushmaan76" target="_blank">
+<a href="https://linkedin.com/in/manjeet2005" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%23405DE6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <li>
-<a href="https://instagram.com/ayush_maan_76" target="_blank">
+<a href="https://instagram.com/iammanjeetthakur" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <li>
-<a href="mailto:ayushmaan6443@gmail.com" target="_blank">
+<a href="mailto:iiammanjeet@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -105,7 +105,7 @@ I'm currently working on the Criminal Detection Project. This project uses facia
 <h3 align="center">💙 If you like this project, give it a ⭐ and share it with friends!</h3>
 <br>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/ayushmaan76">
+  <a href="https://www.buymeacoffee.com/iammanjeet">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buy me a coffee" height="50" width="210">
   </a>
 </div>
