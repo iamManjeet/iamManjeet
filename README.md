@@ -12,11 +12,13 @@
 <br><br>
 
 <!-- Typing Text Animation -->
+<!-- Typing Text Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+%7C+AI+%26+Cloud+Specialist;Full+Stack+Developer+%7C+Mentor+%7C+Innovator;Hackathon+Finalist+(SIH+%26+NASA);Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;AI+%26+Cloud+Enthusiast;Full+Stack+Developer;Hackathon+Finalist+(SIH%2C+NASA);Tech+Mentor+%26+Innovator;Open+Source+Contributor;Lifelong+Learner+%F0%9F%92%AB" alt="Typing SVG">
   </a>
 </p>
+
 
 <br>
 
